@@ -5,7 +5,7 @@ The goal is to provide a solution to the duplicate indentifying problem.
 The python file is seperated by cells, where each cell serves a distinct step in the proposed method:
 
 ## Import packages and data preparation
-- import the data and transform the input data from dictionary to lists to make it easier to work with.
+Import the data and transform the input data from dictionary to lists to make it easier to work with.
 
 ## Define functions
 User defined function used later in the file are declared
