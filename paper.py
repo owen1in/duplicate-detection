@@ -140,7 +140,7 @@ for tv in data:
                         )
 
 
-#%% Find Model Words from title and features
+#%% Find Model Words from titles
 titles = [title[1] for site in data for title in site]
 model_words_title = [
     title_part
