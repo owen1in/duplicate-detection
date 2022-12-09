@@ -1,7 +1,8 @@
 # duplicate-detection
 This repository contains all resources that produced the results for the paper "Scalable Product Duplicate Detection". 
 The main file is the python file named "paper.py" and takes the json file named "TVs-all-merged" as input data. 
-The goal is to provide a solution to the duplicate indentifying problem. 
+The goal is to provide a solution to the duplicate indentifying problem. Please refer to the paper "duplicate_detection.pdf"
+for the theory behind this code.
 The python file is seperated by cells, where each cell serves a distinct step in the proposed method:
 
 ## Import packages and data preparation
