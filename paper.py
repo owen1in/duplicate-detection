@@ -9,7 +9,7 @@ import math
 import time
 import re
 
-printt = False
+
 z = open("TVs-all-merged.json")
 z_data = json.load(z)
 z.close()
