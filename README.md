@@ -45,3 +45,5 @@ The optimal distance threshold is calculated based on the f1 score
 
 ## Final
 Final results are computed for the paper
+
+Function are described by docstrings that explain the function well.
